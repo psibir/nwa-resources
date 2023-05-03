@@ -9,3 +9,4 @@ permalink: /services/
 #### Washington County
 
 
+[Dental Services](_downloads/Dental-Medical-Prescriptions-11.9.22.pdf)
