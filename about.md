@@ -4,12 +4,10 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
 
-### More Information
+Our website provides information on social services in Northwest Arkansas, including financial assistance, housing, food pantries, and low-income medical and dental providers.
 
-A place to include any other types of information that you'd like to include about yourself.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[bloomfieldtm@gmail.com](mailto:email@domain.com)
