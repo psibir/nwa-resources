@@ -9,6 +9,7 @@ permalink: /services/
 #### Washington County
 
 
-[View PDF](https://github.com/psibir/nwa-resources/raw/main/_downloads/Dental-Medical-Prescriptions-11.9.22.pdf?inline=true)
+<a href="https://github.com/psibir/nwa-resources/raw/main/_downloads/Dental-Medical-Prescriptions-11.9.22.pdf" target="_blank" rel="noopener noreferrer">Download PDF</a>
+
 
 
