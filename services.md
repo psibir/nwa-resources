@@ -4,8 +4,6 @@ title: Services
 permalink: /services/
 ---
 
-### Services
-
 Each link contains a PDF with various services for residence of Washington and Benton County. There may be other requirements involved to gain access to some of these services.
 
 [Prescriptions](https://github.com/psibir/nwa-resources/raw/main/_downloads/Dental-Medical-Prescriptions-11.9.22.pdf)
