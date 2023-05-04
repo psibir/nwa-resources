@@ -12,4 +12,4 @@ permalink: /services/
 <a href="https://github.com/psibir/nwa-resources/raw/main/_downloads/Dental-Medical-Prescriptions-11.9.22.pdf" target="_blank" rel="noopener noreferrer">Download PDF</a>
 
 
-
+ {% pdf "https://github.com/psibir/nwa-resources/raw/main/_downloads/Dental-Medical-Prescriptions-11.9.22.pdf" %}
