@@ -6,6 +6,8 @@ permalink: /links/
 
 On this page you will find links to organizations with more specialized services:
 
+### Housing
+
 [New Beginnings NWA](https://newbeginningsnwa.org)
 
 [Havenwood](https://www.nwahavenwood.org)
