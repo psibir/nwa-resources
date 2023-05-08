@@ -45,15 +45,9 @@ For local development:
 
 After tweaking with it, you can publish the site. Under your repository name, click Settings.
 
-![tutorial](https://docs.github.com/assets/images/help/repository/repo-actions-settings.png)
-
 In the left sidebar, click Pages.
 
-![tutorial 2](https://docs.github.com/assets/images/help/pages/pages-tab.png)
-
 To see your published site, under "GitHub Pages", click your site's URL.
-
-![tutorial 3](https://docs.github.com/assets/images/help/pages/click-pages-url-to-preview.png)
 
 For a more detailed guide, visit this guide by Github: https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/creating-a-github-pages-site-with-jekyll
 
